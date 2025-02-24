@@ -19,11 +19,13 @@ This course will teach procedural Python and will not use object oriented or fun
 * input() https://docs.python.org/3/library/functions.html#input
 * creating variables, assignment 
 * print() https://docs.python.org/3/library/functions.html#print
-* Data Types:  sttring, int and float. Casting.
+* string split() method
+* Data Types:  string, int and float. Casting.
 * Basic mathematical operators + - * /
+* boolean comparisons ( >, <, ==, != <=, >=, ) and operators (and or not) 
 * eval()
 * f-strings (typically used by print() ) https://docs.python.org/3/reference/lexical_analysis.html#f-strings
 * Flow control:  if, elif, else https://docs.python.org/3/reference/compound_stmts.html#if
 * Functions: https://docs.python.org/3/reference/compound_stmts.html#function-definitions
-* Unit tests 
+* Home made Unit tests 
 

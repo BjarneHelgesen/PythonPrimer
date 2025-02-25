@@ -1,0 +1,42 @@
+
+Print a christmas tree using hash symbols, e.g. like this for a 5 hash height plus stem: 
+    #
+   ###
+  #####
+ #######
+#########
+    #
+
+Let the user ipnut the height. 
+
+Example: The printing for a 5-height would be: 
+4 spaces + 1 hash
+3 spaces + 3 hashes
+2 spaces + 5 hashes
+1 space  + 7 hashes
+9 hashes
+4 spaces + 1 hash for the stem
+
+
+Optional: unit tests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

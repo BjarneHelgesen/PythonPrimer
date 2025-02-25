@@ -22,10 +22,16 @@ This course will teach procedural Python and will not use object oriented or fun
 * string split() method
 * Data Types:  string, int and float. Casting.
 * Basic mathematical operators + - * /
-* boolean comparisons ( >, <, ==, != <=, >=, ) and operators (and or not) 
-* eval()
-* f-strings (typically used by print() ) https://docs.python.org/3/reference/lexical_analysis.html#f-strings
 * Flow control:  if, elif, else https://docs.python.org/3/reference/compound_stmts.html#if
 * Functions: https://docs.python.org/3/reference/compound_stmts.html#function-definitions
 * Home made Unit tests 
 
+## Curriculum Lesson 2:
+* boolean comparisons ( >, <, ==, != <=, >=, ) and operators (and, or, not) 
+* eval()
+* f-strings (typically used by print() ) https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+* Lists
+* for loops, range
+* % (modulus operator)
+* while loops, break continue
+* end= parameter for print()

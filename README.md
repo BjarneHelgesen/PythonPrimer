@@ -15,7 +15,7 @@ git clone https://github.com/BjarneHelgesen/PythonPrimer/ into a suitable folder
 ## Paradigms
 This course will teach procedural Python and will not use object oriented or functional programming. We will use objects but not define new types of objects.   
 
-## Curriculum Lesson 1:
+## Curriculum Lesson 1: variables, Functions, unit test
 * input() https://docs.python.org/3/library/functions.html#input
 * creating variables, assignment 
 * print() https://docs.python.org/3/library/functions.html#print
@@ -26,12 +26,26 @@ This course will teach procedural Python and will not use object oriented or fun
 * Functions: https://docs.python.org/3/reference/compound_stmts.html#function-definitions
 * Home made Unit tests 
 
-## Curriculum Lesson 2:
+## Curriculum Lesson 2: List asd loops
 * boolean comparisons ( >, <, ==, != <=, >=, ) and operators (and, or, not) 
 * eval()
 * f-strings (typically used by print() ) https://docs.python.org/3/reference/lexical_analysis.html#f-strings
 * Lists
 * for loops, range
 * % (modulus operator)
-* while loops, break continue
+* while loops
 * end= parameter for print()
+
+## Curriculum Lesson 3:TDD and Strings
+* Test Driven Development
+* Unicode 
+* String and character handling (len, chr, ord, looping over strings, indexing strings)
+* Standard string methods: .strip(), .upper(), .lower(), .capitalize(), .count(), .find(), .replace  .isalpha(), .isdigit(), .isalnum(), .islower(), .isupper(), isalnum() 
+
+## Currulum Lesson 4: Exceptions and special behaviour
+* Exceptions
+* break, continue
+* Duck typing
+* Returning multiple variables from a function
+* List slicing
+* Mutable and immutable objects

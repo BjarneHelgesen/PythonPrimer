@@ -9,6 +9,7 @@ first_name, last_name = get_007_name()
 
 counting = [1,2,3,4]
 more_counting = [5,6,7,8]
+more_counting_copy = more_counting.copy() #copy the counting list
 some_counting = counting[0:2] #slice the first two elements of counting
 
 print(add(1, 2)) # 3
